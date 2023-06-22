@@ -1,5 +1,7 @@
 
 #BMI Calculator
+
+
 The BMI calculator I created using HTML, CSS, and JavaScript is a user-friendly tool that helps individuals determine their body mass index.
 
 The layout and design, created with HTML and CSS, provide a clean and intuitive interface. Users can input their weight and height, and upon clicking the "Check BMI" button, the JavaScript code instantly computes the BMI value.
